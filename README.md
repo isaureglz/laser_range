@@ -1,2 +1,2 @@
 # laserrange
-Code used to produce results in the paper "Short-term variation of Lunar Laser Ranging yields caused by solar illumination"
+This Python script was produced in the context of the METEOR (Modules Experiment-ThEOry-Research) "Free space laser links and applications" of the MAUCA (Master track in Astrophysics in Université Côte d'Azur). The goal was to study the impact of solar illumination on the Apollo and Lunakhod reflectors. We worked with data in the green and the infrared domain from the Calern station, ranging 2015 to 2020. We used spherical geometry to display photon return rates as a function of the Sun angle above each reflector, so as to get a better view on the evolution of photon yields over time.
